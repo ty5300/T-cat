@@ -3,7 +3,7 @@
 개발자 목록 : 1) 고양이 2) 문어
 
 
-[에러코드](Py/errorCode.py)
+[에러코드](Py/errorCode.py)  
 [에러코드](https://github.com/KaggleBreak/interpy-kr/blob/master/day7/design%20patterns.ipynb)
 # MySQL
 
