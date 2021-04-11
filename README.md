@@ -1,8 +1,10 @@
 코드 - 최고
 
 개발자 목록 : 1) 고양이 2) 문어
+![image](https://user-images.githubusercontent.com/82245762/114304522-96654a00-9b0e-11eb-8950-ac01f9405038.png)
+<img src="https://user-images.githubusercontent.com/82245762/114304522-96654a00-9b0e-11eb-8950-ac01f9405038.png" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="https://user-images.githubusercontent.com/82245762/114304522-96654a00-9b0e-11eb-8950-ac01f9405038.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
-![image](https://user-images.githubusercontent.com/82245762/114304228-125e9280-9b0d-11eb-9b46-4d61c1f8603e.png)
 
 문장 중간에 사용할 경우에는 **띄어쓰기** 를 사용하는 것이 좋다.  
 
