@@ -9,10 +9,10 @@ Link: [Google][https://google.com ]
 [googlelink]: https://google.com "Go google"
 ```
 
-[link keyword][https://google.com]
-[(link keyword)](https://google.com)
-[id]: https://google.com "Optional Title here" 
-Link: [Google][https://google.com ]
+[link keyword][https://google.com]  
+[(link keyword)](https://google.com)  
+[id]: https://google.com "Optional Title here"   
+Link: [Google][https://google.com ]  
 [googlelink]: https://google.com "Go google"
 
 [폴더 내 코드파일 바로 열기](Py/errorCode.py)  
