@@ -2,7 +2,7 @@
 
 개발자 목록 : 1) 고양이 2) 문어
 
-![image](https://user-images.githubusercontent.com/82245762/114304228-125e9280-9b0d-11eb-9b46-4d61c1f8603e.png width="40%" height="30%")
+![image](https://user-images.githubusercontent.com/82245762/114304228-125e9280-9b0d-11eb-9b46-4d61c1f8603e.png)
 
 문장 중간에 사용할 경우에는 **띄어쓰기** 를 사용하는 것이 좋다.  
 
