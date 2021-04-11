@@ -6,14 +6,16 @@
 [(link keyword)](https://google.com)
 [id]: https://google.com "Optional Title here" 
 Link: [Google][https://google.com ]
-[googlelink]: https://google.com "Go google"
+[googlelink]: https://google.com "Go google"  
+구글: [Google][https://google.com] 
 ```
 
 [link keyword][https://google.com]  
 [(link keyword)](https://google.com)  
 [id]: https://google.com "Optional Title here"   
 Link: [Google][https://google.com ]  
-[googlelink]: https://google.com "Go google"
+[googlelink]: https://google.com "Go google"  
+구글: [Google][https://google.com] 
 
 [폴더 내 코드파일 바로 열기](Py/errorCode.py)  
 [다른 사람의 깃허브에 바로 연결](https://github.com/KaggleBreak/interpy-kr/blob/master/day7/design%20patterns.ipynb)
