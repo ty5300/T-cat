@@ -1,10 +1,22 @@
 코드 - 최고
 
 개발자 목록 : 1) 고양이 2) 문어
+```
+[link keyword][https://google.com]
+[(link keyword)](https://google.com)
+[id]: https://google.com "Optional Title here" 
+Link: [Google][https://google.com ]
+[googlelink]: https://google.com "Go google"
+```
 
+[link keyword][https://google.com]
+[(link keyword)](https://google.com)
+[id]: https://google.com "Optional Title here" 
+Link: [Google][https://google.com ]
+[googlelink]: https://google.com "Go google"
 
-[에러코드](Py/errorCode.py)  
-[에러코드](https://github.com/KaggleBreak/interpy-kr/blob/master/day7/design%20patterns.ipynb)
+[폴더 내 코드파일 바로 열기](Py/errorCode.py)  
+[다른 사람의 깃허브에 바로 연결](https://github.com/KaggleBreak/interpy-kr/blob/master/day7/design%20patterns.ipynb)
 # MySQL
 
 ## Getting started
