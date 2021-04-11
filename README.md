@@ -1,6 +1,10 @@
 코드 - 최고
 
 개발자 목록 : 1) 고양이 2) 문어
+
+문장 중간에 사용할 경우에는 **띄어쓰기** 를 사용하는 것이 좋다.  
+
+
 ```
 [link keyword][https://google.com]
 [(link keyword)](https://google.com)
